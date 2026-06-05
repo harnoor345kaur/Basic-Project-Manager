@@ -8,4 +8,4 @@ Step 3: New terminal, cd frontend
 
 Step 4: npm run dev
 
-(The frontednd is running now)
+(The frontend is running now)
